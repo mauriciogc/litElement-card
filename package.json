@@ -1,0 +1,22 @@
+{
+	"name": "custom-card",
+	"version": "1.0.0",
+	"description": "Custom card with litelement",
+	"main": "index.html",
+	"author": "Mauricio García",
+	"license": "MIT",
+	"scripts": {
+		"start": "parcel index.html --no-cache --open"
+	},
+	"dependencies": {
+		"@fortawesome/fontawesome-svg-core": "^1.2.30",
+		"@fortawesome/free-regular-svg-icons": "^5.14.0",
+		"@fortawesome/free-solid-svg-icons": "^5.14.0",
+		"@polymer/lit-element": "^0.7.1",
+		"lit-element": "^2.4.0",
+		"src": "^1.1.2"
+	},
+	"devDependencies": {
+		"parcel-bundler": "^1.12.4"
+	}
+}
