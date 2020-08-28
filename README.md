@@ -1,8 +1,8 @@
 # Card whit litElement
 
-![Example](https://github.com/mauriciogc/lit-element-card/blob/master/assets/example.png)
+![Example](https://github.com/mauriciogc/litElement-card/blob/master/assets/example.png)
 
-[See GIF example](https://github.com/mauriciogc/lit-element-card/blob/master/assets/animation.gif)
+[See GIF example](https://github.com/mauriciogc/litElement-card/blob/master/assets/animation.gif)
 
 ## You can see the tutorial here
 
